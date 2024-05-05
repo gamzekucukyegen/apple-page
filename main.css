@@ -1,0 +1,107 @@
+body {
+    width: 100%;
+    height: 100%;
+  }
+  
+  header {
+    background-color: white;
+    text-align: center;
+  }
+  nav {
+    margin-bottom: 5rem;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+    font-family: roboto Regular 400 Italic;
+    margin: 30px;
+  }
+  img {
+    width: 50px;
+    margin-top: 5px;
+  }
+  
+  .headline {
+    font-family: roboto 500;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: -1rem;
+  }
+  .subheader {
+    font-family: roboto 400;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+    margin-left: 2rem;
+  }
+  #margin {
+    margin: 15px;
+  }
+  .more {
+    font-size: 20px;
+    font-family: roboto italic;
+    background-color: #339af0;
+    border-radius: 30px;
+    padding: 1rem;
+    margin-right: 2rem;
+    border-width: 0px;
+  }
+  .buy {
+    font-size: 20px;
+    font-family: roboto italic;
+    color: #339af0;
+    border-radius: 30px;
+    background-color: white;
+    padding: 1rem;
+    margin-left: 2rem;
+    border-width: 1px;
+    border-color: #339af0;
+  }
+  .buy:hover {
+    background-color: #339af0;
+    color: black;
+  }
+  .more:hover {
+    background-color: #4dabf7;
+  }
+  div {
+    text-align: center;
+    height: 800px;
+    width: auto;
+    background-image: url(https://www.apple.com/v/macbook-air/r/images/overview/hero/hero_static__c9sislzzicq6_large.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+  }
+  .iki {
+    height: 800px;
+    width: auto;
+    background-image: url(https://www.apple.com/v/iphone-15-pro/c/images/meta/iphone-15-pro_overview__f8jz7aagka2q_og.png?202401240543);
+    background-position: bottom;
+    background-color: black;
+    background-size: 85%;
+  }
+  .headline2 {
+    font-family: roboto 500;
+    text-align: center;
+    font-size: 60px;
+    padding: 2.5rem;
+    margin-bottom: -2rem;
+    color: white;
+  }
+  .subheader2 {
+    font-family: roboto 400;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    color: white;
+  }
+  .three {
+    background-image: url(https://www.apple.com/v/iphone-15/c/images/meta/iphone-15_overview__gm0jynt55aai_og.png);
+    background-position: bottom;
+    background-size: 100% 80%;
+  }
+  #foot {
+    text-align: center;
+    font-family: roboto italic;
+  }
